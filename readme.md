@@ -52,6 +52,7 @@ Remplacez `YOUR_BOT_TOKEN` par le token de votre bot Discord et les autres valeu
 Pour lancer le bot, exécutez la commande suivante :
 
 ```bash
+node deploy-cmd.js (pour initié le deployement des commandes auprès de l'api discord)
 node index.js
 ```
 
