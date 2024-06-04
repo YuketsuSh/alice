@@ -1,0 +1,12 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "clientId": "YOUR_BOT_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "logChannelId": "CONFIG_DISCORD",
+  "announceChannelId": "CONFIG_DISCORD",
+  "giveawayChannelId": "CONFIG_DISCORD",
+  "moderationRoleId": "CONFIG_DISCORD",
+  "allAccessRoleId": "YOUR_ADMIN_ROLE",
+  "giveawayRoleId": "CONFIG_DISCORD",
+  "q17RoleId": "CONFIG_DISCORD"
+}
