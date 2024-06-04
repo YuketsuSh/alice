@@ -33,13 +33,15 @@ npm install
 ```json
 {
   "token": "YOUR_BOT_TOKEN",
-  "logChannelId": "LOG_CHANNEL_ID",
-  "announceChannelId": "ANNOUNCE_CHANNEL_ID",
-  "giveawayChannelId": "GIVEAWAY_CHANNEL_ID",
-  "moderationRoleId": "MODERATION_ROLE_ID",
-  "allAccessRoleId": "ALL_ACCESS_ROLE_ID",
-  "giveawayRoleId": "GIVEAWAY_ROLE_ID",
-  "q17RoleId": "Q17_ROLE_ID"
+  "clientId": "YOUR_BOT_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "logChannelId": "CONFIG_DISCORD",
+  "announceChannelId": "CONFIG_DISCORD",
+  "giveawayChannelId": "CONFIG_DISCORD",
+  "moderationRoleId": "CONFIG_DISCORD",
+  "allAccessRoleId": "YOUR_ADMIN_ROLE",
+  "giveawayRoleId": "CONFIG_DISCORD",
+  "q17RoleId": "CONFIG_DISCORD"
 }
 ```
 
